@@ -8,6 +8,6 @@ En este repositorio practico los operadores logicos y la estructura de control i
 - Gestión del repositorio en GitHub.
 
 ## Tecnologías
-- **JavaScript**: para la práctica de los tipos de datos.
+- **JavaScript**: para la estructura del código.
 - **Git**: para el control de versiones.
 - **GitHub**: para alojar y compartir el código.
